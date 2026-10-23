@@ -1,0 +1,15 @@
+{
+	"name": "rgdatafactoryde",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3de5004-05bf-4db2-8664-d3bb0db36ad8",
+		"tenantId": "a6fb31ca-ec00-46f2-8941-c636a04f7ca9"
+	}
+}
